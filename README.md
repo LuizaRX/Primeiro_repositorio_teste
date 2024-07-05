@@ -1,2 +1,2 @@
-# Primeiro_repositorio
- Primeiro repositório versionado
+# Aprendendo Git e GitHub
+ Meu primeiro repositório versionado!
